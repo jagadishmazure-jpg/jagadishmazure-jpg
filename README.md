@@ -55,4 +55,4 @@ All four run offline with deterministic mocks and sandbox stand-ins so anyone ca
 
 ## Tested, not just demoed
 
-**917 automated tests** pass across the four portfolios (495 + 106 + 167 + 149, verified by running pytest), and every push runs lint, tests and eval gates in GitHub Actions.
+**964 automated tests** pass across the four portfolios (495 + 106 + 214 + 149, verified by running pytest), and every push runs lint, tests and eval gates in GitHub Actions.
