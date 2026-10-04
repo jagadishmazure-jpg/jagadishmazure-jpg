@@ -88,4 +88,4 @@ Best-practice checklists: [agentic-ai](https://github.com/jagadishmazure-jpg/Jag
 
 ## Tested, not just demoed
 
-**2,728 automated tests** pass across the nine repositories (500 + 106 + 214 + 149 + 49 + 199 + 236 + 592 + 683, verified by running pytest), and every push runs lint, tests and eval gates in GitHub Actions, plus Terraform validation, offline plan tests, tflint and checkov on the infrastructure.
+**2,797 automated tests** across the nine repositories (543 agentic-ai + 113 agent platform + 221 integration platform + 157 agent labs + 57 learning lab + 199 Fabric + 235 FinOps + 591 model risk + 681 maturity, counted with pytest in each repository's own environment). All pass except one maturity test that is skipped on purpose because it needs a reference text that is never committed. Every push runs lint, tests and eval gates in GitHub Actions, plus Terraform validation, offline plan tests, tflint and checkov on the infrastructure.
