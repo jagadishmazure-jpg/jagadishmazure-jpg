@@ -72,4 +72,4 @@ Best-practice checklists: [agentic-ai](https://github.com/jagadishmazure-jpg/Jag
 
 ## Tested, not just demoed
 
-**1,195 automated tests** pass across the six repositories (500 + 106 + 214 + 149 + 49 + 177, verified by running pytest), and every push runs lint, tests and eval gates in GitHub Actions, plus Terraform validation, offline plan tests, tflint and checkov on the infrastructure.
+**1,217 automated tests** pass across the six repositories (500 + 106 + 214 + 149 + 49 + 199, verified by running pytest), and every push runs lint, tests and eval gates in GitHub Actions, plus Terraform validation, offline plan tests, tflint and checkov on the infrastructure.
