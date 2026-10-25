@@ -4,6 +4,8 @@
 
 I build AI agents with the controls production needs, and connect them safely to the enterprise systems a business already runs on: approvals before risky actions, access-controlled retrieval, audited tool calls, eval gates in CI, and failure handling designed in from the start. My industry experience covers banking, healthcare, insurance, mortgage and retail.
 
+**Browse everything in one place:** [portfolio catalog site](https://jagadishmazure-jpg.github.io/Jagadish-portfolio-catalog/), searchable by framework, industry and skill, with a page and a case study per repo (all synthetic-data reference builds, regenerated daily from the repos).
+
 ## Featured portfolios
 
 | Repository | What it shows | Key tech |
