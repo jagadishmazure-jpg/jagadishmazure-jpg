@@ -177,7 +177,7 @@ Best-practice checklists: [agentic-ai](https://github.com/jagadishmazure-jpg/Jag
 
 **Agents & LLMs:**
 ![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft_Agent_Framework-5C2D91?style=flat)
-![Microsoft Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=flat)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
