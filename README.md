@@ -1,6 +1,6 @@
 # Jagadish Meduri
 
-**Agentic AI Engineer | Azure AI Foundry, Microsoft Agent Framework, LangGraph | Multi-Agent Systems, RAG, MCP, A2A | Enterprise AI Integration**
+**Agentic AI Engineer | Microsoft Foundry, Microsoft Agent Framework, LangGraph | Multi-Agent Systems, RAG, MCP, A2A | Enterprise AI Integration**
 
 I build AI agents with the controls production needs, and connect them safely to the enterprise systems a business already runs on: approvals before risky actions, access-controlled retrieval, audited tool calls, eval gates in CI, and failure handling designed in from the start. My industry experience covers banking, healthcare, insurance, mortgage and retail.
 
@@ -11,8 +11,8 @@ I build AI agents with the controls production needs, and connect them safely to
 | Repository | What it shows | Key tech |
 |---|---|---|
 | [**Jagadish-agentic-ai**](https://github.com/jagadishmazure-jpg/Jagadish-agentic-ai) | 21 working business agents across eight industries, eight multi-agent orchestration patterns measured side by side, and a fine-tuning vs prompting study, all held to eval gates in CI | Python, LangGraph, LangChain, RAG, MCP, A2A, OpenTelemetry, FastAPI, Terraform |
-| [**Jagadish-azure-agent-platform**](https://github.com/jagadishmazure-jpg/Jagadish-azure-agent-platform) | Multi-agent mortgage underwriting on Azure: document intake, parallel checks, critic review, human underwriter approval and crash-safe resume, plus a governed A2A control plane | Microsoft Agent Framework, Azure AI Foundry, AI Search, Document Intelligence, Content Safety, Bicep/azd, Terraform |
-| [**Jagadish-azure-agent-labs**](https://github.com/jagadishmazure-jpg/Jagadish-azure-agent-labs) | Five end-to-end Azure agent labs: disaster risk from fused seismic, satellite and weather signals; retinal-scan research triage with calibrated, case-cited hypotheses; road maintenance planning on a city graph; contract compliance with router and auditor agents; and wind-turbine diagnostics that learn from evaluated experience through gated lessons | Microsoft Agent Framework, Azure AI Foundry, AI Search, AI Vision, Document Intelligence, Azure Maps, Event Hubs, Cosmos DB, MCP, Bicep, Terraform |
+| [**Jagadish-azure-agent-platform**](https://github.com/jagadishmazure-jpg/Jagadish-azure-agent-platform) | Multi-agent mortgage underwriting on Azure: document intake, parallel checks, critic review, human underwriter approval and crash-safe resume, plus a governed A2A control plane | Microsoft Agent Framework, Microsoft Foundry, AI Search, Document Intelligence, Content Safety, Bicep/azd, Terraform |
+| [**Jagadish-azure-agent-labs**](https://github.com/jagadishmazure-jpg/Jagadish-azure-agent-labs) | Five end-to-end Azure agent labs: disaster risk from fused seismic, satellite and weather signals; retinal-scan research triage with calibrated, case-cited hypotheses; road maintenance planning on a city graph; contract compliance with router and auditor agents; and wind-turbine diagnostics that learn from evaluated experience through gated lessons | Microsoft Agent Framework, Microsoft Foundry, AI Search, AI Vision, Document Intelligence, Azure Maps, Event Hubs, Cosmos DB, MCP, Bicep, Terraform |
 | [**Jagadish-azure-ai-integration-platform**](https://github.com/jagadishmazure-jpg/Jagadish-azure-ai-integration-platform) | Agents that use SAP, Salesforce, ServiceNow, Workday, Dynamics and Jira only through five gateways, acting with the user's own permissions and a full audit trail | Entra ID OBO, APIM, Event Grid, Service Bus, Durable Functions, Logic Apps, MCP, A2A, FastAPI, Bicep, Terraform |
 | [**Jagadish-fabric-enterprise-bi**](https://github.com/jagadishmazure-jpg/Jagadish-fabric-enterprise-bi) | The data platform under the agents: streaming and batch retail data into a medallion Lakehouse and star schema, with live alerts, a forecast, a Power BI semantic model and a governed data agent (row-level security, PII masking, read-only SQL) that other agents call over MCP and A2A, all under Purview-style lineage and labels | Microsoft Fabric, OneLake, Eventhouse/KQL, Mirroring, Power BI/TMDL, Purview, Event Hubs, IoT Hub, DuckDB, scikit-learn, MCP, A2A, Bicep, Terraform |
 | [**Jagadish-azure-finops**](https://github.com/jagadishmazure-jpg/Jagadish-azure-finops) | Azure FinOps and AI FinOps as code: ten cost optimization patterns (rightsizing, autoscale, reservations and savings plans, Spot, storage tiering, Hybrid Benefit, serverless, idle cleanup, tagging and chargeback, cache and egress) with evidence, savings math and skip lists; per-request AI token attribution, model routing, caching, PTU break-even, ROI per use case and an eval gate; and a FinOps agent over MCP whose plans need human approval and run as a dry run | Cost Management, FOCUS, Azure Advisor, Azure Policy, Resource Graph, KQL, Retail Prices API, Azure OpenAI/PTU, MCP, Bicep, Terraform |
@@ -177,7 +177,7 @@ Best-practice checklists: [agentic-ai](https://github.com/jagadishmazure-jpg/Jag
 
 **Agents & LLMs:**
 ![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft_Agent_Framework-5C2D91?style=flat)
-![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat)
+![Microsoft Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
