@@ -32,7 +32,7 @@ domains.
 | Evaluation and eval gates | Proven in repos | [Eval harness](https://github.com/jagadishmazure-jpg/Jagadish-agentic-ai/blob/main/docs/components/eval-harness.md) |
 | Guardrails and runtime safety | Proven in repos | [Runtime safety](https://github.com/jagadishmazure-jpg/Jagadish-azure-ai-integration-platform/blob/main/docs/components/runtime-safety.md) |
 | Fine-tuning | Proven in repos for the local comparison; the Azure fine-tuning job is written, not run | [Project 19](https://github.com/jagadishmazure-jpg/Jagadish-agentic-ai/tree/main/projects/19-finetune-vs-prompting) |
-| Azure AI Foundry (live projects, hosted agents, evaluations) | Learning | Clients and IaC are written; nothing has run against a live Foundry project in these repositories |
+| Microsoft Foundry (live projects, hosted agents, evaluations) | Learning | Clients and IaC are written; nothing has run against a live Foundry project in these repositories |
 | Live LLM quality at scale | Learning | All eval numbers come from deterministic mocks |
 
 ## Azure and infrastructure
