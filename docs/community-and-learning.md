@@ -29,8 +29,7 @@ The current verdict for each topic is kept in the learning lab itself, which is 
 
 ## Frameworks I study and build on
 
-Public frameworks give the portfolio a shared vocabulary with risk, audit and leadership teams. Each one is
-used with credit, in my own words, and the source document itself is never committed.
+Public frameworks give the portfolio a shared vocabulary with risk, audit and leadership teams.
 
 | Framework | Used in |
 |---|---|
